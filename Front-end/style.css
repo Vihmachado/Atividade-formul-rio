@@ -1,0 +1,24 @@
+.titulos{
+    text-align: center;
+    font-style: normal; 
+}
+
+body{
+    background-color:aliceblue;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 80%;
+    margin: auto;
+}
+
+fieldset{
+    background-color:lightblue;
+}
+
+.image{
+    width: 120px;
+    height: 130px;
+    margin-left:850px;
+    margin-top: 15px;
+    align-items:self-end
+}
